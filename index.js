@@ -1,3 +1,5 @@
+// credit to https://stackoverflow.com/questions/5823722/how-to-serve-an-image-using-nodejs/55453475
+
 const path = require('path');
 const http = require('http');
 const fs = require('fs');
